@@ -1,4 +1,4 @@
-This repository contains the code files of some experiments that was mentioned by the ViT-RGTS paper. //
+This repository contains the code files of some experiments that was mentioned by the ViT-RGTS paper. \\
 The original base code is directly used from "https://github.com/kyegomez". //
 The tasks to verify the experiments as done by the original paper ViT needs registers (https://arxiv.org/pdf/2309.16588) are present in this repository experimented by me and "https://github.com/shrey-004" as our Advanced Deep Learning group project.//
 
